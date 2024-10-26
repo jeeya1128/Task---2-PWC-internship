@@ -8,13 +8,21 @@ The objective of this project was to analyze customer retention and present insi
 
 📊 Key Insights
 Total Churned Customers: 1,869 out of 7,043
+
 Revenue Impact: $2.9M annual loss from churned customers
+
 Average Monthly Charges: $65 with total charges at $139K
+
 Customer Breakdown: Gender distribution is nearly equal, with 50.4% Male and 49.5% Female
+
 Senior Citizens: 1,142 churned customers, highlighting a segment at risk
+
 Top Internet Service: Fiber Optics leads in both usage and revenue
+
 Popular Contract Type: Month-to-Month
+
 Preferred Payment Method: Electronic Check
+
 🛠 Dashboard Design Features
 Page Navigation: Interactive buttons to navigate between different insights pages
 Neomorphic Design: Enhanced visual appeal and usability
